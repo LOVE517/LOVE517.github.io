@@ -59,6 +59,7 @@ Technologies used
 - Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus. -->
 
+<span>
 姓名：林土奎
 性别：男
 出生日期：1999年5月17日
@@ -67,3 +68,4 @@ Technologies used
 民族：汉族
 身高：168cm
 最高学历：大专
+</span>
