@@ -59,13 +59,11 @@ Technologies used
 - Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus. -->
 
-<span>
-姓名：林土奎
-性别：男
-出生日期：1999年5月17日
-婚姻状况：未婚
-年龄：18
-民族：汉族
-身高：168cm
-最高学历：大专
-</span>
+姓名：林土奎 <br>
+性别：男     <br>
+出生日期：1999年5月17日 <br>
+婚姻状况：未婚 <br>
+年龄：18      <br>
+民族：汉族     <br>
+身高：168cm    <br>
+最高学历：大专 <br>
