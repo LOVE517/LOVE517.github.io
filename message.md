@@ -4,7 +4,6 @@ title: 留言板
 l :     呵呵
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
       <meta charset="UTF-8">
