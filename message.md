@@ -1,8 +1,8 @@
 ---
-layout: self
+layout: page
 title: 留言板
 ---
 
 <div>
-nn
+
 </div>
