@@ -1,7 +1,7 @@
 ---
 layout: self
 title: 留言板
-l : 呵呵
+l : 
 ---
 
 <html>
