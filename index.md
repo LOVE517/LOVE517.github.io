@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/zq.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<p>活着更精彩，世界并不一样</p>
