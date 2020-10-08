@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 怀念
-subtitle: 我的小小理想
+title: 弥漫
+subtitle: 渺小的世界，匆匆的时间
 sitemap:
   priority: 0.9
 ---
