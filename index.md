@@ -15,6 +15,9 @@ sitemap:
 
 <div>
 <div>
-    <iframe src="/assets/img/bjt.html" width="600" height="350" frameborder="0" scrolling="no"></iframe>
+    <iframe src="/assets/img/bjt.html" width="600" height="450" frameborder="0" scrolling="no"></iframe>
+</div>
+<div>
+	<iframe src="/assets/img/bjt.html" width="600" height="450" frameborder="0" scrolling="no"></iframe>
 </div>
 </div>
