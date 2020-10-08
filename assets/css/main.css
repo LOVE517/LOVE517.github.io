@@ -5,7 +5,10 @@
     font-size: 100%;
     color: #012;
     background-color: beige;
-    background-image: url("./assets/img/zq.jpg"); }
+    background-image: url("/assets/img/zq.jpg");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+  }
 
   a {
     color: #57A;
